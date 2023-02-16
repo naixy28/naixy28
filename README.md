@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My [Telegram Channel](https://t.me/+4R6LaOgxUsNiNzY1)  
+I enjoy sharing articles on web development, generative art, cool websites, and other topics that interest me.
+
 <!--
 **naixy28/naixy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
